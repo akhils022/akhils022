@@ -19,6 +19,7 @@ I enjoy working on projects that challenge me, and my experience spans both **in
   - Developed business analytics and forecasting models for products used by 50+ clients.
   - Built and optimized analytics systems using **AWS**, **GCP**, **MongoDB**, **SQL**, and **RAG frameworks**.
   - Decreased response time by 25%, programmed better formatting, data visualization, and response quality for generated reports using GCP agentic AI framework
+  - [Take a look](https://github.com/akhils022/internshipProjects) at the generative and agentic AI projects I developed during my time at Logesys
 
 - **Computer Science and Math Tutor**  
   - Mentoring students in **Java**, **Python**, **Algebra**, **Trigonometry**, and **Calculus**.
