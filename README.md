@@ -37,6 +37,7 @@ I enjoy working on projects that challenge me, and my experience spans both **in
 #### **Cruise Control System**
 - Programmed an embedded vehicle dashboard using **ESP32 microcontroller**, creating an **odometer display** and motor control system.
 - Integrated **hardware timers** and **ultrasonic sensors** for real-time collision avoidance.
+- [Take a look](https://github.com/akhils022/internshipProjects/tree/main/Cruise%20Control%20Embedded%20System) at the Arduino code for the working system on an ESP32-S3 Microcontroller
 
 #### **3D Scene Reconstructor**
 - Implemented a **structure from motion pipeline** in Python to reconstruct 3D scenes using image rectification and the **8-point algorithm**.
